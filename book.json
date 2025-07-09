@@ -1,0 +1,7 @@
+{
+  "title": "Syslog 技术文档",
+  "plugins": ["highlight", "search", "code"],
+  "variables": {
+    "version": "1.0.0"
+  }
+}
