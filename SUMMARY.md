@@ -1,5 +1,9 @@
 # 目录
 
-* [首页](README.md)
-* [快速入门](chapters/introduction.md)
-* [字段详解](chapters/fields.md)
+* [Index](README.md)
+* [Overview](chapters/introduction.md)
+* [Events and Fields](chapters/fields.md)
+  * [Auth](chapters/auth.md)
+  * [Management](chapters/management)
+  * [Servive Desk](chapters/service_desk.md)
+  * [Log](chapters/log.md)
